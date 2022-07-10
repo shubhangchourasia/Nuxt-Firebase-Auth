@@ -43,4 +43,4 @@ Note - Make sure you have Blaze plan to use Functions
 - All Functions -> firebase deploy --only functions
 - Select Functions -> firebase deploy --only functions:addMessage,functions:makeUppercase
 
-Note - Add project id in .firebaserc file inside default key if there is a error or if it does not appear after firebase init step. 
+Note - Add project id in .firebaserc file inside default key if there is an error or if it does not appear after firebase init step. 
