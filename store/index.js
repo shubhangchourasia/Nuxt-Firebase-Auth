@@ -1,4 +1,3 @@
-import Cookies from 'js-cookie'
 import { getUserFromCookie } from '../helper/index.js'
 
 export const actions = {
